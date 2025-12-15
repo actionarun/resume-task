@@ -4,7 +4,7 @@
     font-family: "PT Sans", sans-serif;
 }
 
-.resume{
+body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -12,17 +12,13 @@
     color: black;
 }
 
-
-
-
-
-* Navbar Section */
+/* Navbar Section */
 .navbar{
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 15px 20px;
-    background-color: #333;
+    background-color:skyblue;
     color: white;
 }
 
